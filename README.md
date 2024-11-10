@@ -58,8 +58,6 @@
   <a href="https://linkedin.com/in/nizar-abidi-1a5210253/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:abidinizar777@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <p align="left">📫 Email : abidinizar777@gmail.com</p>
 </div>
 
