@@ -11,7 +11,7 @@
 ##
 <div align="left">
   <p align="left"><b>Linkedin</b> : 
-  <a href="https://linkedin.com/in/nizar-abidi-1a5210253/" target="_blank">
+  <a href="https://linkedin.com/in/nizar-abidi-1a5210253/" target="linkedin.com/in/nizar-abidi-1a5210253/">
     </p>
   </a>
   <p align="left"><b>Email</b> : abidinizar777@gmail.com</p>
